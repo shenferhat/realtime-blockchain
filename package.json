@@ -1,0 +1,29 @@
+{
+  "name": "blockchainsimulator",
+  "version": "1.0.0",
+  "description": "Simple Blockchain simulator built with node.js and socket.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "author": "Şen Ferhat",
+  "license": "GNU/GPL",
+  "bugs": {
+    "url": "https://github.com/ngrt/simpleChatApp#readme"
+  },
+  "homepage": "https://github.com/ngrt/simpleChatApp#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "ejs": "^2.5.7",
+    "elliptic": "^6.5.0",
+    "express": "^4.16.2",
+    "nodemon": "^1.14.3",
+    "pdfkit": "^0.10.0",
+    "socket.io": "^2.0.4"
+  }
+}
