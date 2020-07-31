@@ -20,7 +20,7 @@
   "dependencies": {
     "crypto-js": "^3.1.9-1",
     "ejs": "^2.5.7",
-    "elliptic": "^6.5.0",
+    "elliptic": "^6.5.3",
     "express": "^4.16.2",
     "nodemon": "^1.14.3",
     "pdfkit": "^0.10.0",
